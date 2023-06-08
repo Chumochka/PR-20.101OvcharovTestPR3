@@ -1,0 +1,6 @@
+C:\Users\Miller\source\repos\NumberSystemFuntions\NumberSystemFuntions\bin\Debug\NumberSystemFuntions.dll
+C:\Users\Miller\source\repos\NumberSystemFuntions\NumberSystemFuntions\bin\Debug\NumberSystemFuntions.pdb
+C:\Users\Miller\source\repos\NumberSystemFuntions\NumberSystemFuntions\obj\Debug\NumberSystemFuntions.csprojAssemblyReference.cache
+C:\Users\Miller\source\repos\NumberSystemFuntions\NumberSystemFuntions\obj\Debug\NumberSystemFuntions.csproj.CoreCompileInputs.cache
+C:\Users\Miller\source\repos\NumberSystemFuntions\NumberSystemFuntions\obj\Debug\NumberSystemFuntions.dll
+C:\Users\Miller\source\repos\NumberSystemFuntions\NumberSystemFuntions\obj\Debug\NumberSystemFuntions.pdb
